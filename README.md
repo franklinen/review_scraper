@@ -1,0 +1,1 @@
+## this is a python script for scraping reviews and other properties of vacation rentals  
